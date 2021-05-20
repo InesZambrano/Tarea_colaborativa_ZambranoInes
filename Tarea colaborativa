@@ -1,0 +1,13 @@
+Proceso mi_primer_algoritmo
+	Definir a,b,c,d  como real;
+	Escribir ("Dame el dato de a:" ) ;
+	Leer a;
+	Escribir ("Dame el dato de b:") ;
+	Leer b;
+	c <- azar(1999);
+	d <- Rc ((a*b)/b);
+	Escribir ("El dato de a es: ") ,a;
+	Escribir ("El dato de b es: ") ,b;
+	Escribir ("El dato de c es: ") ,c;
+	Escribir ("El dato de d es: ") ,d;
+FinProceso
